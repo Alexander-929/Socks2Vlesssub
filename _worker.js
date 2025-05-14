@@ -5,7 +5,7 @@ let subConverter = 'subapi.cmliussss.net';
 let subConfig = 'https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini.ini';
 const fakeUserID = '00000000-0000-0000-0000-000000000000';
 const fakeHostName = 'www.baidu.com';
-let 网络备案 = `© 2025 Socks2VLESS订阅生成器 - <a href='https://t.me/CMLiussss'>萌ICP备-20240707号</a>`;//写你自己的维护者广告
+let 网络备案 = `提供维护 - <a href='https://t.me/eziyuan'>🆉🆈🅵🆇</a>`;//写你自己的维护者广告
 let 网站图标, 网站背景;
 
 export default {
